@@ -1,0 +1,15 @@
+{
+  "name": "js-advanced-lesson",
+  "version": "1.0.0",
+  "description": "JavaScript Advanced Learning Project",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["javascript", "advanced", "learning", "education"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
